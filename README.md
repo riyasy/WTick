@@ -10,7 +10,7 @@ internet needed.
 
 ## 🎬 Preview
 
-<!-- Drop a screen recording or screenshot here -->
+<img src="docs/preview.gif" width="900" alt="WTick on the Windows desktop: expanded and compact views, the right-click menu, Customize and the city picker" />
 
 ## ✨ Features
 
