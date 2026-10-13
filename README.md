@@ -8,13 +8,13 @@ internet needed.
 
 ---
 
+## 🎬 Preview
+
 Watch WTick in action:
 
 [![WTick](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgzE1I3sOk6Q)](https://www.youtube.com/watch?v=gzE1I3sOk6Q)
 
 ---
-
-## 🎬 Preview
 
 <img src="docs/preview.gif" width="900" alt="WTick on the Windows desktop: expanded and compact views, the right-click menu, Customize and the city picker" />
 
