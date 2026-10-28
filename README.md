@@ -145,6 +145,12 @@ windows, and Win+D never loses it.
 
 ---
 
+## 🤝 Contributing
+
+By submitting a pull request, you agree to the [Contributor License Agreement](CLA.md). You keep the copyright to your work.
+
+---
+
 ## 📄 Licence
 
 See [`LICENSE`](LICENSE): GPL-3.0 for the source code, with separate terms for the binaries and the
